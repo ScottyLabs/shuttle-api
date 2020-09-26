@@ -1,0 +1,41 @@
+[
+  {
+    "GroundSpeed": 12.42841802724,
+    "Heading": 23,
+    "IsDelayed": false,
+    "IsOnRoute": true,
+    "Latitude": 40.44547,
+    "Longitude": -79.94128,
+    "Name": "E03",
+    "RouteID": 45,
+    "Seconds": 0,
+    "TimeStamp": "/Date(1599609134000-0600)/",
+    "VehicleID": 12
+  },
+  {
+    "GroundSpeed": 24.85459911819,
+    "Heading": 151,
+    "IsDelayed": false,
+    "IsOnRoute": true,
+    "Latitude": 40.43094,
+    "Longitude": -79.93956,
+    "Name": "E02",
+    "RouteID": 22,
+    "Seconds": 3,
+    "TimeStamp": "/Date(1599609131000-0600)/",
+    "VehicleID": 2
+  },
+  {
+    "GroundSpeed": 26.71796704776,
+    "Heading": 155,
+    "IsDelayed": false,
+    "IsOnRoute": true,
+    "Latitude": 40.454,
+    "Longitude": -79.92141,
+    "Name": "E08",
+    "RouteID": 30,
+    "Seconds": 2,
+    "TimeStamp": "/Date(1599609132000-0600)/",
+    "VehicleID": 8
+  }
+]
