@@ -12,7 +12,7 @@ app.get("/", function (req, res) {
 app.get("/locations", function (req, res) {
   axios
     .get(
-      "http://abc.xyz/Services/JSONPRelay.svc/GetMapVehiclePoints?ApiKey=8882812681"
+      "http://andysbuses.com/Services/JSONPRelay.svc/GetMapVehiclePoints?ApiKey=8882812681"
     )
     .then((res1) => {
       console.log(res1);
