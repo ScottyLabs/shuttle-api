@@ -3,6 +3,8 @@ const axios = require("axios");
 
 const app = express();
 
+const port = process.env.PORT || 5000;
+
 app.get("/", function (req, res) {
   res.send("Shuttle API");
 });
@@ -22,5 +24,5 @@ app.get("/locations", function (req, res) {
     });
 });
 
-app.listen(5000, () => console.log(`App listening on port 5000.`));
-// localhost:5000
+app.listen(port, () => console.log(`App listening on port ${port}.`));
+// localhost:port
